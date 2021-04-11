@@ -28,7 +28,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background('#42A8C0');
   
  // console.log("reseult:" + color_cd[3]);
   //stroke("#99ff99");
